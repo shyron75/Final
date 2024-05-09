@@ -35,7 +35,7 @@ aside{
   text-align: center;
   font-size: 1.5em;
   font-weight: bold;
-  color: #373684;
+  color: #7cfc00;
   text-shadow: 3px 3px 10px #8280cb;
 }
 
@@ -64,7 +64,7 @@ figcaption{
 header {
     text-align: center;
     font-size: 1.5em;
-    color: #373684;
+    color: #7cfc00;
   }
 
   header h1 {
@@ -74,7 +74,7 @@ header {
     /* Style rule for navigation area */
 
 nav {
-  background-color: #373684;
+  background-color: #7cfc00;
 }
 
 nav ul {
@@ -85,12 +85,12 @@ nav ul {
 
 nav li {
   display:block;
-  border-top: 1px solid #e5e9fc;
+  border-top: 1px solid #ff1493;
   font-size: 2em;
 }
 nav li a{
    display:block;
-   color:#fff;
+   color:#ff1493;
    text-align: center;
    padding: 0.5em 1em;
    text-decoration: none;
@@ -98,7 +98,7 @@ nav li a{
 /* Style Rules for Main content */
     main {
        padding: 2%;
-       background-color: #e5e9fc;
+       background-color: #ff1493;
        overflow: auto;
        font-family: Verdana, Arial, sans-serif;
      }
@@ -109,7 +109,7 @@ nav li a{
 
       .action{
         font-size: 1.25em;
-        color: #373684;
+        color: #000000;
         font-weight: bold;
       }
 
@@ -121,7 +121,7 @@ nav li a{
 
       #info {
         clear: left;
-        background-color: #c0caf7;
+        background-color: #000000
         padding: 1% 2%;
       }
 
@@ -138,7 +138,7 @@ nav li a{
       }
 
       .tel-link {
-        background-color: #373684;
+        background-color: #00bfff;
         padding: 2%;
         margin: 0 auto;
         width: 80%;
@@ -147,7 +147,7 @@ nav li a{
       }
 
       .tel-link a {
-        color: #fff;
+        color: #00bfff;
         text-decoration: none;
         font-size: 1.5em;
         display: block;
@@ -155,7 +155,7 @@ nav li a{
 
 
       #contact a {
-        color: #4645a8;
+        color: #00bfff;
         text-decoration: none;
         font-weight: bold;
       }
@@ -175,7 +175,7 @@ footer {
   }
 
   footer a {
-    color: #4645a8;
+    color: #00bfff;
     text-decoration: none;
   }
 
@@ -276,7 +276,7 @@ footer {
 
       nav li a:hover{
 
-        color: #373684;
+        color: #00bfff;
         background-color: #e5e9fc;
       }
 
